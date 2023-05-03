@@ -1,0 +1,17 @@
+{
+    "name": "asus/web-crawler",
+    "authors": [
+        {
+            "name": "Khang Ho",
+            "email": "htkhang0966@gmail.com"
+        }
+    ],
+    "require": {
+        "simplehtmldom/simplehtmldom": "^2.0@RC",
+        "symfony/dom-crawler": "^6.0",
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/css-selector": "^6.0"
+    },
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
